@@ -28,6 +28,6 @@ The project should meet the following specifications
 
 #### State Diagram ####
 For the sake of readability, I have created this state diagram such that the larger circlers represent a "super state" to indicate that any of the states contained within can traverse to any of the states with arrows leaving the super state under the same criteria.  Said criteria is described in the nearest note.
-![State Diagram for Wifi Stoplight](../img/pi5_stoplight_statediagram.png)
+![State Diagram for Wifi Stoplight](../img/pi5_stoplight_statediagram.PNG)
 
 #### Flowchart #####
